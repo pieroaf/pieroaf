@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!&center=true&color="CE972B")](https://github.com/RJRCH123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!&center=true&color="256D85")](https://github.com/RJRCH123)
 
 </div>
 
 <div align="center">
   
 <a href="" target="_blank">
-    <img align="center" src="./avatar.png" alt="" height="200" width="200" />
+    <img align="center" src="./avatar.jpg" alt="" height="200" width="200" />
 </a>
 
 </div>
