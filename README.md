@@ -1,29 +1,23 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!&center=true&color="5CB8E4")](https://github.com/RJRCH123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!👋+&center=true&color="5CB8E4")](https://github.com/RJRCH123)
 
 </div>
 
 <div align="center">
   
-<img src="https://consultoresinternacionales.org/img/reunion.gif" width="50%">
+<img src="https://consultoresinternacionales.org/img/reunion.gif" width="25%">
 
 </div>
 
-### Hi there 👋
+## About me 
 
-```js 
-const AboutMe = {
-  name: ["Piero Azahuanche"],
-  age: ["24"], 
-  country: ["Peru"],
-  languages: ["English", "Spanish"],
-  studies: ["UNI"]
-}
-if (you = "Need Backend Developer") {
-  sendMeEmail("pieroazahuanchef@gmail.com");
-}
-```
+- 🗺️ I am Peruvian 🇵🇪.
+- 🔭 I’m currently working on improve my backend skills.
+- 📖 I’m currently learning Python from scratch through Udemy (never it's too late, right?).
+- 🤝 I’m looking to collaborate on interesting projects.
+- 📽 I love watching movies and listening to music.
+- 😄 I like read and learn.
 
 ## Contact me
 <p align="left">
