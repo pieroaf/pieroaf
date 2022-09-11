@@ -6,11 +6,11 @@
 
 <div align="center">
   
-<a href="" target="_blank">
-    <img align="center" src="./avatar.jpg" alt="" height="200" width="200" />
-</a>
+<img src="https://consultoresinternacionales.org/img/reunion.gif" width="50%">
 
 </div>
+
+### Hi there 👋
 
 ```js 
 const AboutMe = {
@@ -25,12 +25,10 @@ if (you = "Need Backend Developer") {
 }
 ```
 
-## Connect with me:
+## Contact me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/piero-azahuanche-2a0a32185/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 30px; height:30px'/></a>
 <a href = "https://www.instagram.com/pieroapodyopsis/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style='width: 30px; height:30px'/></a>
 
 </p>
-
-
